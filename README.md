@@ -5,7 +5,7 @@
 
 I'm a fourth year computer science student studying at the University of Windsor.
 
-- 🔭 I’m currently working on a personal project using Ruby or Python
+- 🔭 I’m currently working on a personal project using either Ruby or Python
 - 🌱 I’m currently learning web development with Ruby on Rails
 - 💬 Ask me about anything [here](https://github.com/FerruccioSisti/FerruccioSisti/issues)
 - 📫 How to reach me: Send me an <a href = "mailto: sisti@uwindsor.ca">email</a>!
