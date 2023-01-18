@@ -3,7 +3,7 @@
 <!--
 **FerruccioSisti/FerruccioSisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm a fourth year computer science student studying at the University of Windsor.
+I'm a University of Windsor Computer Science graduate currently working as a software engineer at General Motors.
 
 - 🔭 I’m currently working on a personal project using either Ruby or Python
 - 🌱 I’m currently learning web development with Ruby on Rails
